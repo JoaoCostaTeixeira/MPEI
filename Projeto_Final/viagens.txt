@@ -1,0 +1,226 @@
+#String Nome ; String Pais ; String atributos ; int temp ; int populacao
+praia,montanha,historico,comercio,neve,desporto,rural,urbano,noite,ilha,cultura,tropical,religioso
+--Inicio
+Lisboa;Portugal;historico,comercio,urbano,noite;17;530847
+Porto;Portugal;historico,comercio,urbano,noite;16;230298
+Faro;Portugal;praia,comercio,desporto,urbano,noite;19;64560
+Funchal;Portugal;praia,comercio,desporto,ilha;20;111541
+Ponta Delgada;Portugal;praia,comercio,desporto,ilha;18;68809
+Bilbao;Espanha;urbano,cultura;15;346574
+Granada;Espanha;urbano,historico,cultura;17;237540
+Sevilha;Espanha;historico,desporto,cultura;20;696676
+Madrid;Espanha;comercio,urbano,noite,cultura;14;3165000
+Barcelona;Espanha;praia,historico,comercio,desporto,urbano,noite,cultura;16;1602000
+Toledo;Espanha;historico,rural;17;83334
+Paris;França;historico,desporto,noite,cultura,religioso;13;2244000
+Toulose;França;historico,desporto,religioso;20;441802
+Estrasburgo;França;historico,comercio,noite,cultura;15;271782
+Bordéus;França;historico,desporto,cultura,religioso;13;239157
+Lyon;França;historico,desporto,cultura,religioso;18;491268
+Roma;Italia;historico,comercio,desporto,cultura,religioso;20;2546804
+Milão;Italia;historico,comercio,deporto,urbano,noite,cultura;23;1251000
+Alexandria;Itália;historico,comercio,cultura,religioso;25;82201
+Pisa;Itália;historico,comercio,rural,cultura,religioso;18;85379
+Luxemburgo;Luxemburgo;urbano,desporto,rural;10;1754881
+Basileia;Suiça;montanha,praia,rural,urbano,historico;13;569012
+Berna;Suiça;religioso,rural,desporto,montanha;10;1359383
+Apples;Suiça;neve,montanha,urbano,desporto,cultura;23;603591
+São Galo;Suiça;neve,praia,urbano,comercio;8;965044
+Schönengrund;Suiça;montanha,desporto,tropical;19;1685069
+Alabama;EUA;desporto,tropical,religioso,praia,comercio,neve,historico;23;1649665
+Alasca;EUA;neve,comercio,urbano,ilha;3;1635271
+Arcansas;EUA;noite,religioso,urbano,desporto,historico,tropical,comercio;21;1616359
+Arizona;EUA;cultura,urbano,ilha,montanha,neve,rural,historico,tropical,praia,religioso;14;981240
+Califórnia;EUA;urbano,historico,desporto,ilha;14;1351268
+Cansas;EUA;montanha,praia,urbano;14;1217726
+Carolina do Norte;EUA;religioso,tropical,neve,cultura,historico,urbano,ilha,desporto,montanha,praia;20;521875
+Carolina do Sul;EUA;rural,montanha,historico,ilha,neve,cultura,urbano,religioso,tropical,praia;17;1378176
+Colorado;EUA;neve,ilha,rural,praia,montanha;16;1223426
+Conecticute;EUA;praia,montanha,ilha,religioso;14;1031396
+Dacota do Norte;EUA;urbano,neve,comercio,cultura,ilha,religioso,rural,desporto;14;1588810
+Dacota do Sul;EUA;praia,montanha,cultura,neve;17;1614716
+Delaware;EUA;desporto,ilha,rural,praia,tropical,historico,urbano,religioso,noite,cultura,comercio,montanha;15;1945364
+Flórida;EUA;noite,praia,tropical,desporto,montanha,cultura,religioso,neve,historico;28;1524141
+Geórgia;EUA;cultura,montanha,desporto,rural,neve,historico,comercio,praia,religioso,ilha;12;504544
+Havaí;EUA;cultura,neve,tropical,praia,ilha,montanha,urbano;16;1416645
+Idaho;EUA;comercio,neve,urbano;14;1929400
+Ilha de Rodes;EUA;urbano,historico,praia,cultura,ilha,desporto,neve,rural,noite,religioso,tropical;17;586141
+Ilinóis;EUA;praia,cultura,comercio,desporto,ilha;0;1961142
+Indiana;EUA;urbano,desporto,neve;29;1600741
+Iowa;EUA;montanha,noite,tropical,cultura,neve;17;1606713
+Kentucky;EUA;comercio,montanha,cultura,religioso,urbano,historico,neve,desporto,noite,tropical,praia;10;1658063
+Luisiana;EUA;cultura,montanha,ilha,religioso,neve;22;1321494
+Maine;EUA;historico,urbano,cultura,desporto;2;951594
+Marilândia;EUA;neve,historico,desporto,religioso,praia,rural,tropical,montanha,cultura;25;1184004
+Massachusetts;EUA;tropical,neve,desporto,ilha,historico,noite,montanha;11;1819380
+Míchigan;EUA;desporto,ilha,neve,tropical,comercio,praia,cultura,urbano,religioso,noite,rural,historico,montanha;2;1413116
+Minesota;EUA;neve,rural,praia,comercio,urbano,montanha,religioso,desporto,tropical,historico,noite,cultura,ilha;14;1416935
+Mississíppi;EUA;historico,rural,tropical,montanha,urbano,praia,ilha,neve,comercio;14;1559936
+Missúri;EUA;montanha,cultura,historico,comercio,religioso,ilha,neve,noite;4;1332314
+Montana;EUA;historico,comercio,urbano,neve,cultura,religioso;12;1864296
+Nebrasca;EUA;urbano,desporto,neve,noite,montanha,cultura,historico,praia;14;1296176
+Nevada;EUA;montanha,desporto,tropical,historico,religioso,noite,urbano,ilha;5;827605
+Nova Hampshire;EUA;religioso,urbano,neve,desporto,ilha,rural,noite,praia;8;1102501
+Nova Jérsei;EUA;historico,noite,rural,urbano,tropical,comercio,montanha,cultura,religioso,neve;1;844034
+Nova Iorque;EUA;desporto,historico,religioso,montanha,tropical,praia;13;1301294
+Novo México;EUA;montanha,noite,rural,tropical,desporto,religioso,ilha;1;825532
+Oklahoma;EUA;desporto,historico,urbano,praia,religioso,noite;5;722025
+Ohio;EUA;neve,montanha,desporto,tropical,cultura,historico,rural;7;750009
+Óregon;EUA;ilha,urbano,rural,cultura,tropical,religioso,neve,noite,desporto,historico;11;1412703
+Pensilvânia;EUA;tropical,urbano,montanha,neve;8;665080
+Tennessee;EUA;desporto,historico,tropical,comercio,ilha,montanha,noite;28;595407
+Texas;EUA;tropical,montanha,noite,rural,ilha,urbano,neve,praia;13;1023907
+Utá;EUA;historico,tropical,desporto;1;562344
+Vermonte;EUA;praia,montanha,noite,urbano,cultura,rural,tropical,neve,historico,religioso,ilha,desporto,comercio;26;1971828
+Virgínia;EUA;desporto,historico,comercio,noite,rural,tropical,praia,montanha;17;1600082
+Virgínia Ocidental;EUA;neve,urbano,ilha,cultura,praia,religioso,comercio,rural,historico;17;1311188
+Washington;EUA;ilha,urbano,tropical,comercio,desporto,cultura,praia,montanha,religioso,noite;26;843082
+Wisconsin;EUA;cultura,ilha,noite,religioso,comercio,neve,historico;16;1017864
+Wyoming;EUA;tropical,desporto,praia,historico,religioso,cultura,neve,rural;19;623359
+São Paulo;Brasil;urbano,rural,ilha,religioso,desporto,montanha,praia,tropical,cultura,noite,neve,comercio,historico;3;1709095
+Rio de Janeiro;Brasil;rural,montanha,historico,praia,ilha,tropical,religioso,urbano;27;1510945
+Paraíba;Brasil;neve,desporto,rural,cultura,religioso,montanha,praia,tropical,ilha,comercio,noite,historico;7;712297
+Minas Gerais;Brasil;noite,cultura,rural;8;1308760
+Maranhão;Brasil;comercio,religioso,ilha,noite,praia,historico,cultura,montanha,urbano;15;1952274
+Buenos Aires;Argentina;urbano,religioso,rural,tropical,montanha;3;1360891
+Formosa;Argentina;montanha,ilha,urbano,comercio,historico,tropical,neve,cultura,praia,desporto,rural,noite;1;1482140
+San Juan;Argentina;tropical,religioso,comercio,historico,noite,desporto,praia,neve,montanha,cultura;11;1175534
+Terra do Fogo;Argentina;ilha,praia,urbano,neve,religioso;18;552119
+Río Negro;Argentina;montanha,comercio,rural,urbano,historico,religioso,tropical,praia,ilha;22;816387
+Santiago;Chile;rural,neve,tropical,praia,cultura;24;1050453
+Curicó;Chile;noite,historico,praia,ilha;21;902977
+Arauco;Chile;religioso,ilha,comercio,rural,neve,montanha,urbano,tropical,praia,noite,desporto;21;1716193
+Ranco;Chile;ilha,urbano,religioso,tropical;25;1287506
+Marga Marga;Chile;praia,rural,cultura,historico,urbano,ilha,neve,religioso,comercio;20;1585460
+Ilha de Páscoa;Chile;tropical,ilha,comercio;24;627887
+Bajo Cauca;Colombia;montanha,urbano,rural,religioso,tropical,noite,neve,comercio,praia,desporto,cultura,historico,ilha;16;1501809
+La Mojana;Colombia;desporto,religioso,noite,comercio,rural,historico,montanha;26;1458418
+Gutiérrez;Colombia;ilha,historico,neve,noite,desporto,tropical,religioso,urbano,cultura,comercio,praia,montanha;24;1695649
+La Libertad;Colombia;tropical,comercio,montanha,noite,neve,historico,urbano;11;1199969
+Magdalena caldense;Colombia;cultura,praia,montanha,comercio;21;1675605
+Darién;Colombia;religioso,tropical,historico,rural,urbano,ilha,noite,cultura,praia,montanha,desporto;9;833115
+Sumapaz;Colombia;cultura,comercio,noite,rural,desporto;15;741887
+Estado do México;México;rural,religioso,urbano,cultura,montanha,tropical,praia,ilha,neve,desporto,noite,comercio,historico;3;1515355
+Distrito Federal;México;praia,cultura,comercio,urbano,noite,ilha,rural;19;1116191
+Veracruz;México;montanha,religioso,praia,cultura,ilha,comercio,noite,tropical,urbano,neve;28;1616331
+Jalisco;México;comercio,rural,noite,neve,montanha,tropical,cultura,urbano,praia,religioso;1;787984
+Puebla;México;urbano,rural,comercio;20;1723588
+Guanajuato;México;desporto,historico,religioso,comercio,rural,cultura,praia,montanha,tropical,noite,urbano,neve;3;1872114
+Xangai;China;montanha,historico,urbano;29;1852334
+Pequim;China;tropical,ilha,rural,noite,praia,cultura,historico,religioso,desporto,montanha;9;902078
+Chongqing;China;neve,historico,rural,cultura,noite,tropical,desporto,urbano,montanha,comercio,ilha;24;1572430
+Cantão;China;noite,rural,montanha;26;1272325
+Shenzhen;China;cultura,praia,religioso,tropical,ilha,rural,neve,montanha,desporto;25;1178740
+Tóquio;Japão;montanha,noite,ilha,praia,desporto,neve,historico,cultura,tropical,comercio,religioso,rural;3;826011
+Yokohama;Japão;montanha,praia,neve,comercio,desporto,historico,cultura,religioso,tropical,rural,ilha;29;849877
+Hiroshima;Japão;historico,desporto,religioso,montanha,tropical,noite;27;1116956
+Osaka;Japão;montanha,historico,neve,urbano,rural,comercio,desporto,ilha,praia,noite,religioso,tropical;6;1224404
+Kyoto;Japão;neve,historico,urbano,desporto,rural,praia,noite,ilha,religioso,comercio,cultura,montanha;19;922646
+Moscovo;Russia;religioso,rural,neve,ilha,praia,noite,cultura,montanha,desporto,tropical,urbano;25;563789
+São Petersburgo;Russia;ilha,rural,desporto,montanha,tropical,neve,religioso,urbano,noite;16;1123206
+Vologda;Russia;ilha,praia,historico,urbano,religioso,rural,tropical,cultura,desporto;15;936038
+Kirov;Russia;ilha,cultura,rural,comercio;1;759317
+Oremburgo;Russia;religioso,montanha,praia,neve;27;685869
+Ilha Christmas;Australia;religioso,tropical,ilha,comercio,rural;17;1332583
+Sydney;Australia;noite,cultura,praia,historico,urbano,ilha,tropical,rural,montanha,neve,desporto,comercio;25;623253
+Flying Fish Cove;Australia;urbano,rural,praia,religioso,noite,ilha,comercio,tropical,desporto,historico,cultura,montanha;17;1780569
+Canberra;Australia;neve,rural,noite,desporto,ilha,montanha,praia,religioso,comercio,tropical,cultura,historico;22;1207044
+Kingston;Australia;urbano,comercio,praia,noite;23;1603662
+Kingston;Jamaica;neve,cultura,religioso,comercio;4;1793647
+Nova Kingston;Jamaica;rural,historico,montanha,ilha,comercio,urbano,praia,neve;3;1032033
+Spanish Town;Jamaica;cultura,comercio,desporto,ilha;7;1334442
+Portmore;Jamaica;rural,praia,ilha,comercio,cultura,noite,religioso,montanha,urbano,desporto;8;1653885
+Nassau;Bahamas;comercio,montanha,ilha,rural,religioso,urbano,historico,cultura,praia,neve;19;619099
+Freeport;Bahamas;praia,neve,tropical,montanha,rural,urbano,desporto,religioso;6;789239
+West End;Bahamas;neve,montanha,religioso;27;564437
+Coopers Town;Bahamas;montanha,desporto,praia,rural,cultura,comercio,tropical,neve,noite,ilha,historico;0;877350
+Callao;Peru;praia,neve,montanha,comercio,ilha,desporto,rural,tropical,urbano,historico,religioso,cultura,noite;17;1325182
+Amazonas;Peru;historico,montanha,ilha,tropical,neve,rural,religioso,urbano;6;933110
+Pasco;Peru;comercio,noite,praia,ilha,urbano,cultura,desporto,rural,neve,montanha,historico,religioso;7;557538
+Piura;Peru;cultura,urbano,desporto,tropical,religioso;16;1308620
+Tumbes;Peru;ilha,religioso,montanha,comercio,neve,historico,cultura,tropical,praia,rural,desporto,noite,urbano;6;1942437
+Ica;Peru;religioso,desporto,neve,montanha,cultura,historico,comercio,urbano,tropical,ilha,praia,noite;11;1802360
+Berlim;Alemanha;desporto,montanha,rural,comercio,ilha;28;559665
+Munique;Alemanha;tropical,comercio,religioso,desporto,noite,rural,cultura,neve,urbano;13;515768
+Estugarda;Alemanha;cultura,desporto,historico,rural,neve,noite,ilha;9;1308255
+Hamburgo;Alemanha;neve,montanha,rural,ilha,religioso,cultura,historico,noite,praia;13;543524
+Glasgow;Escocia;ilha,tropical,urbano,historico,neve,praia,cultura;1;1351563
+Edimburgo;Escocia;cultura,ilha,desporto,montanha,praia,neve,comercio,urbano,noite,historico;0;1834863
+Aberdeen;Escocia;montanha,religioso,tropical;0;1617704
+Guayas;Equador;neve,comercio,tropical,cultura,montanha,urbano,praia,desporto,noite,historico,religioso,rural,ilha;17;528112
+Manabí;Equador;comercio,religioso,tropical,urbano,rural,ilha,montanha;7;1261644
+Pichincha;Equador;comercio,noite,montanha,historico,rural,cultura,ilha,desporto,neve,religioso,praia,urbano,tropical;1;1127951
+Fredrikstad-Sarpsborg;Noruega;religioso,historico,tropical,rural,noite,cultura,neve,praia,montanha;5;654858
+Bergen;Noruega;desporto,religioso,noite,historico;8;1041157
+Oslo;Noruega;comercio,praia,tropical,montanha,cultura,neve;22;580293
+Limerick;Irlanda;noite,montanha,praia,tropical,neve,historico,ilha,comercio;1;1964394
+Cork;Irlanda;neve,montanha,rural,religioso,desporto,praia,ilha,comercio,cultura,noite;22;500844
+Dublin;Irlanda;comercio,montanha,tropical,rural,desporto,religioso;27;978924
+Chennai;India;montanha,praia,ilha,desporto,urbano,tropical;18;542121
+Marco de Canaveses;Portugal;religioso,noite,praia,cultura,rural,historico;9;102672
+Deli;India;desporto,praia,urbano,ilha,tropical,noite,rural;15;1728734
+Bombaim;India;ilha,praia,desporto,cultura,urbano,religioso;7;1865165
+Wroclaw;Polonia;cultura,religioso,noite,montanha,tropical,urbano,praia,neve,desporto;13;808524
+Katowice;Polonia;montanha,praia,comercio,urbano;4;1360191
+Cracóvia;Polonia;rural,urbano,comercio,neve,religioso,praia,ilha,desporto,historico,montanha,tropical;20;1825637
+Varsóvia;Polonia;neve,religioso,cultura,historico,montanha,praia,ilha,rural,urbano,tropical,comercio,desporto,noite;8;711711
+Tessalônica;Grecia;tropical,religioso,historico,neve,urbano,noite,ilha,comercio,rural,desporto,cultura;2;547799
+Atenas;Grecia;comercio,neve,historico,religioso,cultura,ilha,praia,rural,desporto,urbano;28;724141
+Oulu;Finlandia;rural,montanha,neve,noite;27;1485143
+Turku;Finlandia;tropical,religioso,cultura,praia,rural,desporto,neve,comercio;16;1723895
+Tampere;Finlandia;rural,neve,desporto,tropical,ilha,noite;24;1867169
+Helsinque;Finlandia;historico,ilha,praia,urbano,neve,desporto,rural,cultura,tropical,montanha;6;806061
+Odense;Dinamarca;religioso,comercio,noite,tropical,praia,montanha,ilha,rural,cultura;9;570495
+Århus;Dinamarca;cultura,urbano,neve,religioso,praia;27;605761
+Copenhague;Dinamarca;montanha,ilha,tropical,cultura,rural,neve,comercio,religioso,urbano,historico,desporto,noite,praia;15;1182786
+Malmö;Suecia;neve,tropical,praia,desporto,comercio,ilha,cultura,religioso;25;944065
+Gotemburgo;Suecia;neve,comercio,historico,noite,cultura,praia,rural,urbano,ilha,desporto,religioso,tropical,montanha;6;1950147
+Estocolmo;Suecia;urbano,ilha,religioso,cultura,neve,comercio,praia;11;1558315
+Fez;Marrocos;rural,praia,cultura,neve,urbano,historico,tropical,religioso;7;1573462
+Rabat;Marrocos;cultura,tropical,comercio,rural,ilha,historico,urbano,religioso,noite,desporto,praia;19;651175
+Casablanca;Marrocos;historico,montanha,urbano,neve,ilha,noite,desporto,cultura,comercio,praia,tropical;0;1441621
+Durban;Africa do Sul;praia,ilha,rural,neve,noite,urbano,montanha,desporto;17;1729314
+Cidade do Cabo;Africa do Sul;montanha,cultura,tropical,ilha,neve;9;1120810
+Joanesburgo;Africa do Sul;desporto,rural,cultura;22;951099
+Abu Dhabi;Emirados Árabes Unidos;historico,desporto,noite,praia,urbano,religioso,rural,neve,montanha,comercio,cultura,tropical;27;1149262
+Dubai;Emirados Árabes Unidos;comercio,historico,urbano,noite,neve,ilha,desporto,religioso,rural,montanha,tropical,praia;6;1717953
+Eindhoven;Holanda;rural,historico,noite,religioso,neve,comercio,urbano,tropical,cultura,montanha;25;871338
+Utrecht;Holanda;religioso,comercio,desporto,historico,cultura,neve,tropical,montanha,ilha,rural,urbano;18;1970107
+Roterdão;Holanda;religioso,desporto,montanha,tropical,comercio,urbano,historico,neve,praia;25;1504649
+Amesterdão;Holanda;cultura,montanha,rural,desporto,tropical,ilha,historico,praia,comercio;28;1289139
+Plzen;Rep Checa;ilha,tropical,rural,religioso,comercio,neve,desporto,noite;14;1246143
+Ostrava;Rep Checa;comercio,historico,religioso,montanha,desporto,ilha,urbano,praia,tropical,neve,noite;4;1046617
+Brno;Rep Checa;historico,montanha,cultura,neve,urbano,rural;8;570803
+Praga;Rep Checa;ilha,praia,desporto,historico,neve,montanha,cultura,tropical,comercio,noite;21;1129167
+Montreal;Canada;comercio,cultura,praia,tropical;10;1890454
+Vancouver;Canada;neve,desporto,montanha,historico,rural,urbano,religioso,praia,comercio,tropical;29;877742
+Toronto;Canada;urbano,tropical,noite,ilha,cultura,praia,desporto,comercio,historico,religioso;6;1889732
+São Filipe;Cabo Verde;montanha,neve,ilha,desporto,religioso,rural,noite;1;807071
+Santa Cruz;Cabo Verde;cultura,comercio,praia,rural,noite,ilha;3;850432
+Santa Maria;Cabo Verde;neve,religioso,tropical,cultura,noite,historico,rural,urbano,ilha,comercio;10;1613641
+Mindelo;Cabo Verde;neve,montanha,religioso,ilha,noite,historico,praia,desporto,urbano,rural,tropical;5;1983865
+Praia;Cabo Verde;praia,neve,montanha,noite,cultura,desporto,historico,comercio,ilha;21;1437183
+Santa Clara;Cuba;historico,rural,religioso,ilha,praia,cultura,noite,tropical,desporto;7;1973400
+Holguín;Cuba;historico,comercio,desporto,neve,montanha,ilha,tropical,urbano,praia,rural,cultura,religioso;6;1352821
+Camagüey;Cuba;cultura,rural,noite,praia,montanha,comercio,urbano,tropical,desporto,ilha;13;1758009
+Santiago de Cuba;Cuba;neve,praia,noite,montanha,religioso,comercio,cultura,urbano,desporto,historico,rural;11;1563857
+Havana;Cuba;tropical,praia,neve,religioso,ilha,montanha,cultura,noite,historico,comercio;14;989820
+Cardiff;Pais de Gales;historico,comercio,religioso;21;838839
+Newport;Pais de Gales;religioso,noite,neve,cultura,urbano,historico,rural,ilha,montanha;4;1891975
+Vale of Glamorgan;Pais de Gales;ilha,religioso,comercio,neve,noite,urbano,montanha,tropical,desporto,praia;18;1726610
+Merthyr Tydfil;Pais de Gales;noite,neve,cultura,desporto,comercio;0;1048281
+Zadar;Croacia;ilha,cultura,tropical,montanha,historico,religioso,praia,comercio,neve;23;1703308
+Osijek;Croacia;montanha,desporto,tropical,rural,historico,urbano,noite,neve,religioso,comercio,cultura,praia;22;1496015
+Rijeka;Croacia;urbano,tropical,comercio;0;714959
+Split;Croacia;rural,religioso,montanha,ilha,noite,tropical,desporto,cultura,historico,neve,urbano,praia,comercio;10;1511983
+Zagreb;Croacia;praia,neve,desporto,ilha,montanha,cultura,urbano;22;1049286
+Nottingham;Inglaterra;comercio,religioso,desporto,praia,rural,urbano,montanha,neve,historico;12;1692079
+Liverpool;Inglaterra;historico,montanha,rural,praia,comercio,neve,religioso;9;571768
+Birmingham;Inglaterra;rural,praia,tropical,comercio,ilha,neve,noite,cultura,urbano,desporto,montanha;24;1739367
+Manchester;Inglaterra;religioso,praia,noite,historico,comercio,urbano,desporto,rural;27;993340
+Londres;Inglaterra;noite,rural,historico,cultura,montanha,tropical,praia,neve,desporto,religioso;24;766546
+Invercargill;Nova Zelandia;rural,praia,neve,cultura,noite,urbano,desporto,ilha,historico,religioso;24;1124234
+New Plymouth;Nova Zelandia;desporto,montanha,neve,noite,cultura,historico,religioso,ilha,tropical,praia,rural,comercio,urbano;25;946244
+Hamilton;Nova Zelandia;montanha,religioso,praia,ilha,cultura,urbano,comercio;3;961435
+Wellington;Nova Zelandia;praia,historico,comercio,rural,noite,ilha,montanha,cultura,religioso;27;1524011
+Auckland;Nova Zelandia;praia,neve,religioso,desporto,cultura,urbano,noite,comercio,historico,rural,montanha,tropical;21;805867
